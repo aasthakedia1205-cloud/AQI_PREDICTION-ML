@@ -40,3 +40,17 @@ This project focuses on analyzing air pollution data and predicting AQI using Ma
 ##  Future Scope
 - Real-time AQI prediction  
 - Web app deployment  
+
+##  Project Visualizations
+
+### Yearly AQI Trend
+![YEAR AVG AQI](graph3.png)
+
+### Correlation Between Pollutants
+![Pollutants](graph5.png)
+
+### Confusion Matrix
+![AQI Trend](graph10.png)
+
+### Actual vs Predicted AQI (Line Graph)
+![Line Graph](graph15.png)
